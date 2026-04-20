@@ -2,7 +2,7 @@
   "id": "ptscans-provider",
   "name": "PT Scans",
   "description": "Unified manga provider for HiperCool and TiaManhwa",
-  "manifestURI": "https://raw.githubusercontent.com/SKRAPT/PT-Scans/refs/heads/main/ptscans-provider.json",
+  "manifestURI": "https://raw.githubusercontent.com/SKRAPT/PT-Scans/main/ptscans-provider.json",
   "version": "1.0.0",
   "author": "Skrapt",
   "type": "manga-provider",
