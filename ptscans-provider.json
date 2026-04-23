@@ -1,7 +1,7 @@
 {
   "id": "ptscans-provider",
   "name": "PT Scans",
-  "description": "Unified manga provider",
+  "description": "Unified manga provider - Portuguese manga/manhwa Websites",
   "manifestURI": "https://raw.githubusercontent.com/SKRAPT/PT-Scans/main/ptscans-provider.json",
   "version": "1.0.2",
   "author": "Skrapt",
