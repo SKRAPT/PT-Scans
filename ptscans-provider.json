@@ -21,7 +21,7 @@
         "type": "switch",
         "name": "disable_nsfw",
         "label": "Desativar NSFW",
-        "default": "true"
+        "default": "false"
       }
     ]
   }
